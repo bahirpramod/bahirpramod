@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pramod Bahir</h1>
 <h3 align="center">Passionate about development goal is to achieve a good position by doing satisfying work in the development field strongly focus to complete the task.</h3>
-<img align="right" alt="code_debug.py" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW>
+<img align="right" alt="code_debug.py" width="600"  height="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahirpramod&label=Profile%20views&color=0e75b6&style=flat" alt="bahirpramod" /> </p>
 
