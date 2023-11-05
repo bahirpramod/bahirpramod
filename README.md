@@ -1,5 +1,5 @@
-![logo](https://github.com/bahirpramod/bahirpramod/blob/main/baner_img.jpg)
-<h1 align="center">Hi 👋, I'm Pramod Bahir</h1>
+![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
+<h1 align="center">Hi 👋, I'm Pramod Bahir</h1
 <h3 align="center">Passionate about development goal is to achieve a good position by doing satisfying work in the development field strongly focus to complete the task.</h3>
 <img align="right" alt="code_debug.py" width="400"  src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
