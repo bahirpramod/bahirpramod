@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bahirpramod96@gmail.com**
 
-- 📄 Know about my experiences [https://go.wetransfer.com/t-1X1GEWDqvF](https://go.wetransfer.com/t-1X1GEWDqvF)
+- 📄 Know about my experiences [https://go.wetransfer.com/t-1X1GEWDqvF](https://we.tl/t-ehfEuk1I8w)
 
 - ⚡ Fun fact **I'm serious about cricket**
 
