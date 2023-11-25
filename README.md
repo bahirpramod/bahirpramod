@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/pramod bahir](https://www.linkedin.com/in/pramod-bahir-5609ab191/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod bahir" height="30" width="40" /></a>
-<a href="[https://instagram.com/cod_debug.py](https://instagram.com/code_debug.py?igshid=OGQ5ZDc2ODk2ZA== )" target="https://instagram.com/code_debug.py?igshid=OGQ5ZDc2ODk2ZA=="><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cod_debug.py" height="30" width="40" /></a>
+<a href="[https://instagram.com/cod_debug.py](https://instagram.com/code_debug.py?igshid=OGQ5ZDc2ODk2ZA==)" target="blank><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cod_debug.py" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
