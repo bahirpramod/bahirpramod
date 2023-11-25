@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
-<h1 align="center">Hi 👋, I'm Pramod Bahir</h1
+<h1 align="center">Hi 👋, I'm Software Developer</h1
 <h3 align="center">Passionate about development goal is to achieve a good position by doing satisfying work in the development field strongly focus to complete the task.</h3>
 <img align="right" alt="code_debug.py" width="400"  src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[https://linkedin.com/in/pramod bahir](https://www.linkedin.com/in/pramod-bahir-5609ab191/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod bahir" height="30" width="40" /></a>
-<a href="[https://instagram.com/cod_debug.py](https://instagram.com/code_debug.py?igshid=OGQ5ZDc2ODk2ZA==)" target="blank><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cod_debug.py" height="30" width="40" /></a>
+<a href="[https://instagram.com/cod_debug.py](https://instagram.com/code_debug.py?igshid=OGQ5ZDc2ODk2ZA== )" target="blank><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cod_debug.py" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
