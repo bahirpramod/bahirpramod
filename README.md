@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahirpramod&label=Profile%20views&color=0e75b6&style=flat" alt="bahirpramod" /> </p>
 
-- 🔭 I’m currently working on Scs Tech India Pvt.Ltd **GIS Developer**
+- 🔭 I’m currently working on TRC **GIS Developer**
 
 - 🌱 I’m currently learning **ML,AI**
 
